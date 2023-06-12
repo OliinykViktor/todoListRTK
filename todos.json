@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "9ad55b30-0ab0-49c5-bf1b-588ec74487d4",
+      "title": "Спати",
+      "completed": false
+    },
+    {
+      "id": "bab758ca-de9d-4377-a4e0-1fa63e9b7414",
+      "title": "Прибирати",
+      "completed": false
+    },
+    {
+      "id": "cd6fbcc5-b2bf-4c27-8b75-41bba4899a60",
+      "title": "Випити каву",
+      "completed": false
+    }
+  ]
+}
